@@ -1,0 +1,4 @@
+let editor = document.getElementById("editor")
+let preview = document.getElementById("preview")
+
+let preview.innerHTML = editor
